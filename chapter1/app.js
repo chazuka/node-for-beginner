@@ -1,6 +1,6 @@
 /**
- * application bootstrap
+ * Start node server
+ *
+ * @author chz
  */
-
-var server = require('./server');
-server.serve();
+require('./app/server').serve();

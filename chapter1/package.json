@@ -1,0 +1,12 @@
+{
+  "name": "chapter1",
+  "version": "0.0.0",
+  "description": "Applikasi website statis sangat sederhana menggunakan http module",
+  "main": "app.js",
+  "scripts": {},
+  "author": "chz",
+  "license": "ISC",
+  "devDependencies": {
+    "http": "0.0.0"
+  }
+}
